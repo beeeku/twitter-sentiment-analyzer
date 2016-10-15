@@ -5,5 +5,5 @@ Usage
 Once you have your dependencies installed via pip, run the script in terminal via
 
 ```
-python searchterm filename
+python demo.py searchterm filename
 ```
